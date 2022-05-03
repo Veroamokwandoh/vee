@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.top-container{
+    background-color: rgb(173, 231, 231);  
+    position: relative;
+    padding-top: 200px;
+}
+h1{
+    margin-top: 0;
+}
+.middle-container{
+    background-color: rgb(230, 254, 253);
+    padding-bottom:20px;
+    padding-top: 20px;
+}
+.bottom-container{
+    background-color: rgb(173, 231, 231);
+    height:100px;
+    padding-top: 20px;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+    border-radius: 100px;
+    height:100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 400px;
+    border-radius: 100px;
+    height:100px;
+}
+.mountain{
+    position: absoloute;
+    bottom: 100px;
+    padding-top: 300px;
+}
+.me{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    color: rgb(5, 95, 91);
+}
+h2{
+    color: rgb(93, 195, 195);
+}
+h3{
+    color:rgb(51, 181, 138)
+}
+h4{
+    color: rgb(9, 66, 63);
+}
+.coding{
+    border-radius: 500px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    right : 300px;
+}
+.music{
+    border-radius: 500px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left : 300px;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:gray;
+    width:5%;
+}
